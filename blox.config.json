@@ -1,0 +1,1 @@
+{"name":"Carry-ui-1-outside","type":"ui-elements","source":{"ssh":"git@github.com:Digambaran/CLI-test-ui-outside.git","https":"https://github.com/Digambaran/CLI-test-ui-outside.git"},"language":"nodejs","start":"npx webpack-dev-server","build":"npx webpack","postPull":"npm i","standAloneBlox":true}
